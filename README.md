@@ -4,7 +4,7 @@ Programmable payments to replace the paper check.
 
 A working, full-stack prototype of a smart-contract-based payment platform built on **Hyperledger Fabric**. CheckChain creates conditional payment agreements (escrow-as-code), releases funds when verifiable conditions are met, and issues cryptographically signed "Digital Cashier's Check" receipts. Designed for contractors, landlords, escrow agents, and B2B AP teams.
 
-> Built by [Kyle Goode](https://github.com/KgoodeMFTA) — M.S. FinTech & Analytics, Wake Forest University. This project is a direct extension of capstone research on blockchain integration for programmable consumer banking.
+> Built by [Kerry Goode](https://github.com/KgoodeMFTA) — M.S. FinTech & Analytics, Wake Forest University. This project is a direct extension of capstone research on blockchain integration for programmable consumer banking.
 
 ---
 
